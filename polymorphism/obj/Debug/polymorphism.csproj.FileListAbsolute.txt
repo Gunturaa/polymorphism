@@ -1,0 +1,8 @@
+D:\AMIKOM\SEMESTER2\pemrograman\coding\polymorphism\polymorphism\bin\Debug\polymorphism.exe.config
+D:\AMIKOM\SEMESTER2\pemrograman\coding\polymorphism\polymorphism\bin\Debug\polymorphism.exe
+D:\AMIKOM\SEMESTER2\pemrograman\coding\polymorphism\polymorphism\bin\Debug\polymorphism.pdb
+D:\AMIKOM\SEMESTER2\pemrograman\coding\polymorphism\polymorphism\obj\Debug\polymorphism.csproj.AssemblyReference.cache
+D:\AMIKOM\SEMESTER2\pemrograman\coding\polymorphism\polymorphism\obj\Debug\polymorphism.csproj.SuggestedBindingRedirects.cache
+D:\AMIKOM\SEMESTER2\pemrograman\coding\polymorphism\polymorphism\obj\Debug\polymorphism.csproj.CoreCompileInputs.cache
+D:\AMIKOM\SEMESTER2\pemrograman\coding\polymorphism\polymorphism\obj\Debug\polymorphism.exe
+D:\AMIKOM\SEMESTER2\pemrograman\coding\polymorphism\polymorphism\obj\Debug\polymorphism.pdb
